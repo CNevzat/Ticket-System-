@@ -1,0 +1,18 @@
+﻿body {
+    background-image: url("images/LoginBack.jpg");
+}
+#registerDiv{
+    width:500px;
+    height:550px;
+    margin:auto;
+    background-color:azure;
+    margin-top:150px;
+    border-style:groove;
+    border-color:black;
+    border-width:4px;
+}
+#Label1{
+    margin-left:150px;
+    margin-top:20px;
+}
+

@@ -1,0 +1,46 @@
+﻿body {
+    background-image: url('images/LoginBack.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100%;
+}
+#maindiv{
+    width:400px;
+    height:500px;
+    border-color:black;
+    border-width:3px;
+    margin:auto;
+    margin-top:150px;
+  
+}
+#Label1{
+    margin-left:150px;  
+}
+#links{
+    width:400px;
+    height:30px;
+}
+#LinkButton2{
+    float:left;
+    margin-left:70px;
+  
+  
+}
+#LinkButton1{
+    float:left;
+    margin-left:20px; 
+}
+
+.link{
+    color:white;
+    font-size:18px;
+            
+}
+.link:hover{
+   color:red;
+   font:bold;
+  
+
+
+}

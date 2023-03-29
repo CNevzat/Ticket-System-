@@ -1,0 +1,72 @@
+﻿body {
+    background-image: url("images/LoginBack.jpg");
+}
+#confirmationDiv{
+    width:640px;
+    height:550px;
+    background-color:white;
+    margin:auto;
+    margin-top:80px;
+    border-style:solid;
+    border-color:orangered;
+    border-width:5px;
+  
+}
+#Label15 {
+    border-style: inset;
+    border-width: 3px;
+    border-color: black;
+    margin-left: 90px;
+}
+#Label16 {
+    border-style: inset;
+    border-width: 3px;
+    border-color: black;
+    margin-left:100px;
+}
+#ticketCorner{
+    width:300px;
+    height:350px;
+    background-color:white;
+    float:left;
+    border-right-color:black;
+    border-right-width:2px;
+    border-right-style:solid;   
+    display:inline-block;
+    margin-top:30px;
+    border-bottom-color:black;
+    border-bottom-width:2px;
+    border-bottom-style:solid;
+}
+#userInformation {
+    width: 325px;
+    height: 350px;
+    background-color: white;
+    float: left;
+    display: inline-block;
+    margin-top: 30px;
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+#bottom{
+   height:100px;
+   width:500px;
+   margin-top:30px;
+   
+}
+#Button1{
+    margin-left:135px;
+    margin-top:35px;     
+}
+#home{
+    width:100px;
+    height:100px;
+    float:left;
+    margin-top:-70px;
+}
+#ImageButton1{
+    background-color:transparent;
+    margin-bottom:20px;
+}
+
